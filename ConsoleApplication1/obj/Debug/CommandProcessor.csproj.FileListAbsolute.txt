@@ -1,0 +1,7 @@
+C:\Users\lifec\Desktop\КурсачОС(русс)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\lifec\Desktop\КурсачОС(русс)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\lifec\Desktop\КурсачОС(русс)\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\lifec\Desktop\КурсачОС(русс)\ConsoleApplication1\obj\Debug\CommandProcessor.csprojAssemblyReference.cache
+C:\Users\lifec\Desktop\КурсачОС(русс)\ConsoleApplication1\obj\Debug\CommandProcessor.csproj.CoreCompileInputs.cache
+C:\Users\lifec\Desktop\КурсачОС(русс)\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\lifec\Desktop\КурсачОС(русс)\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
